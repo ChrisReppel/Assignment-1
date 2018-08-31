@@ -2,7 +2,7 @@
 Name: Chris Reppel
 Date due: 31/8/18
 Details: Reading Tracker
-GitHub URL:
+GitHub URL: https://github.com/ChrisReppel/Assignment-1.git
 """
 
 
